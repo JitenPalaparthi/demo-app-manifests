@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: ghcr.io/jitenpalaparthi/demo-app:1b6ad90
+          image: ghcr.io/jitenpalaparthi/demo-app:f0eaa8c
           ports:
             - containerPort: 80
